@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ndye0s.salamcuanwin.xyz/sitemap.xml
